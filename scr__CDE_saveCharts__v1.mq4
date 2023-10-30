@@ -34,7 +34,7 @@ void OnStart()
        
          chart.Detach();
        }  //-- end for        
-       Sleep(60000);  //-- milliseconds >> 6ß*1000 = 1min    
+       Sleep(60000);  //-- milliseconds >> 60*1000 = 1min    
     }  //-- end while
   }
 //+------------------------------------------------------------------+
